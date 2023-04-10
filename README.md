@@ -28,4 +28,4 @@
 | (5) | 平台服务 |ark-gateway | 流量网关 | [ark-gateway](https://github.com/javaboy863/ark-gateway) |
 | (6) | 平台服务 |ark-rule-platform | 规则引擎平台 | [ark-rule-platform](https://github.com/javaboy863/ark-rule-platform) |
 | (7) | 平台服务 | ark-leaf | 分布式ID，生成全局唯一ID | [ark-leaf](https://github.com/javaboy863/ark-leaf) |
-| ① | 最佳实践 | ark-nacos | nacos使用最佳实践 | [ark-nacos](https://github.com/javaboy863/ark-nacos) |
+| ① | 最佳实践 | ark-best-practices-nacos | nacos使用最佳实践 | [nacos最佳实践](https://github.com/javaboy863/ark-best-practices/nacos) |
