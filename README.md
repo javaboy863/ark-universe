@@ -21,6 +21,7 @@
 | 2) | 架构 |ark-arch-stability | 架构稳定性方法论 | [ark-arch-stability](https://github.com/javaboy863/ark-arch-stability) |
 | 3) | 架构 |ark-clean-architecture | 整洁架构方法论 | [ark-clean-architecture](https://github.com/javaboy863/ark-clean-architecture) |
 | 4) | 架构 |ark-clean-code | 整洁代码方法论 | [ark-clean-code](https://github.com/javaboy863/ark-clean-code) |
+| 5) | 架构 | ark-stability-test-env | 测试环境稳定性治理实践 | [测试环境稳定性治理](https://github.com/javaboy863/ark-best-practices/tree/main/testing-environment) |
 | (1) | 平台服务 |ark-bcp | 业务校验平台 | [ark-bcp](https://github.com/javaboy863/ark-bcp) |
 | (2) | 平台服务 |ark-monitor-bug-repoter | 生产环境异常报警通知 | [ark-monitor-bug-repoter](https://github.com/javaboy863/ark-monitor-bug-repoter) |
 | (3) | 平台服务 |ark-dubbo-governance | 服务治理和摘挂流量 | [ark-dubbo-governance](https://github.com/javaboy863/ark-dubbo-governance) |
@@ -29,4 +30,3 @@
 | (6) | 平台服务 |ark-rule-platform | 规则引擎平台 | [ark-rule-platform](https://github.com/javaboy863/ark-rule-platform) |
 | (7) | 平台服务 | ark-leaf | 分布式ID，生成全局唯一ID | [ark-leaf](https://github.com/javaboy863/ark-leaf) |
 | ① | 最佳实践 | ark-best-practices-nacos | nacos使用最佳实践 | [nacos最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
-| ② | 最佳实践 | ark-best-practices-test-env | 测试环境稳定性最佳实践 | [测试环境稳定性最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/testing-environment) |
