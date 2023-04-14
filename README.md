@@ -31,5 +31,6 @@
 | (6) | 平台服务篇 |ark-rule-platform | 规则引擎平台 | [ark-rule-platform](https://github.com/javaboy863/ark-rule-platform) |
 | (7) | 平台服务篇 | ark-leaf | 分布式ID，生成全局唯一ID | [ark-leaf](https://github.com/javaboy863/ark-leaf) |
 | ① | 最佳实践篇 | ark-best-practices-nacos | nacos使用最佳实践 | [nacos最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
-| ① | 管理篇 | ark-management-dotted-line | 虚线TL方法论 | [虚线TL方法](https://github.com/javaboy863/ark-management) |
-| ① | 管理篇 | ark-management-team-leader | 实线TL方法论 | [实线TL方法](https://github.com/javaboy863/ark-management) |
+| 一 | 管理篇 | ark-management-dotted-line | 虚线TL方法论 | [虚线TL方法](https://github.com/javaboy863/ark-management) |
+| 二 | 管理篇 | ark-management-team-leader | 实线TL方法论 | [实线TL方法](https://github.com/javaboy863/ark-management) |
+| 1. | 研发流程规范篇 | ark-standard | 《技术方案评审规范》 | [技术方案评审规范](https://github.com/javaboy863/ark-standard/tree/main/nacos) |
