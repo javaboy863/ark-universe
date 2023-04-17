@@ -21,10 +21,11 @@
 | 6 | 中间件篇 | ark httpclient框架 |  发起http请求场景 | [ark-common-httpclient](https://github.com/javaboy863/ark-common-httpclient) |
 | 7 | 中间件篇 | ark数据对比框架 | 数据对比场景 | [ark-common-data-compare](https://github.com/javaboy863/ark-common-data-compare) |
 | 8 | 架构篇 | ark分层框架 | 是一种应用架构，是对整洁架构的一种实现 | [ark-layer-framework](https://github.com/javaboy863/ark-layer-framework) |
-| 9 | 架构篇 | ark系统稳定性方法论 | 架构稳定性方法论 | [稳定性](https://github.com/javaboy863/ark-arch/tree/main/stability) |
-| 10 | 架构篇 | ark整洁架构方法论 | 整洁架构方法论 | [整洁架构](https://github.com/javaboy863/ark-arch/tree/main/clean-architecture) |
-| 11 | 架构篇 | ark整洁代码方法论 | 整洁代码方法论 | [整洁代码](https://github.com/javaboy863/ark-arch/tree/main/clean-code) |
+| 9 | 架构篇 | ark系统稳定性方法论 | 架构稳定性方法论 | [稳定性](https://github.com/javaboy863/ark-arch/tree/main/arch-stability) |
+| 10 | 架构篇 | ark整洁架构方法论 | 整洁架构方法论 | [整洁架构](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-architecture) |
+| 11 | 架构篇 | ark整洁代码方法论 | 整洁代码方法论 | [整洁代码](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-code) |
 | 12 | 架构篇 | ark测试环境稳定性治理实践 | 测试环境稳定性治理实践 | [测试环境稳定性治理](https://github.com/javaboy863/ark-best-practices/tree/main/testing-environment) |
+| 12 | 架构篇 | ark DDD | DDD实践总结 | [DDD实践总结](https://github.com/javaboy863/ark-arch/tree/main/arch-DDD) |
 | 13 | 平台篇 |ark业务校验平台 | 业务校验平台 | [ark-bcp](https://github.com/javaboy863/ark-bcp) |
 | 14 | 平台篇 |ark异常播报服务 | 生产环境异常报警通知 | [ark-monitor-bug-repoter](https://github.com/javaboy863/ark-monitor-bug-repoter) |
 | 15 | 平台篇 |ark dubbo摘挂流量服务 | 服务治理和摘挂流量 | [ark-dubbo-governance](https://github.com/javaboy863/ark-dubbo-governance) |
