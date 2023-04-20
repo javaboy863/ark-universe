@@ -20,6 +20,7 @@
 | 5 | 中间件篇 | ark super pom框架 |  jar依赖统一管控 | [ark-super-pom](https://github.com/javaboy863/ark-super-pom) |
 | 6 | 中间件篇 | ark httpclient框架 |  发起http请求场景 | [ark-common-httpclient](https://github.com/javaboy863/ark-common-httpclient) |
 | 7 | 中间件篇 | ark数据对比框架 | 数据对比场景 | [ark-common-data-compare](https://github.com/javaboy863/ark-common-data-compare) |
+| 7 | 中间件篇 | ark rocketmq client框架 | rocketmq收发消息场景 | [ark-rocketmq-client](https://github.com/javaboy863/ark-rocketmq-client.git) |
 | 8 | 架构篇 | ark分层框架 | 是一种应用架构，是对整洁架构的一种实现 | [ark-layer-framework](https://github.com/javaboy863/ark-layer-framework) |
 | 9 | 架构篇 | ark系统稳定性方法论 | 架构稳定性方法论 | [稳定性](https://github.com/javaboy863/ark-arch/tree/main/arch-stability) |
 | 10 | 架构篇 | ark整洁架构方法论 | 整洁架构方法论 | [整洁架构](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-architecture) |
@@ -38,3 +39,4 @@
 | 22 | 团队管理篇 | ark虚线TeamLeader方法论 | 虚线TL方法论 | [虚线TL方法](https://github.com/javaboy863/ark-management) |
 | 23 | 团队管理篇 | ark实线TeamLeader方法论 | 实线TL方法论 | [实线TL方法](https://github.com/javaboy863/ark-management) |
 | 24 | 研发流程规范篇 | ark技术评审规范 | 《技术方案评审规范》 | [技术方案评审规范](https://github.com/javaboy863/ark-standard/tree/main/nacos) |
+| 25 | 日常踩坑篇 | dubbo踩坑系列 | dubbo踩坑记录 | [dubbo踩坑系列](https://github.com/javaboy863/ark-standard/tree/main/nacos) |
