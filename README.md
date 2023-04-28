@@ -38,6 +38,7 @@
 | 19 | 平台篇 | ark分布式ID服务 | 分布式ID，生成全局唯一ID | [ark-leaf](https://github.com/javaboy863/ark-leaf) |
 | 20 | 中台篇 | ark交易中台 | 支持不同业务的交易场景 | [交易中台](https://github.com/javaboy863/ark) |
 | 21 | 最佳实践篇 | ark nacos最佳实践 | nacos使用最佳实践 | [nacos最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
+| 21 | 最佳实践篇 | ark cache最佳实践 | cache使用最佳实践 | [cache最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
 | 22 | 团队管理篇 | ark虚线TeamLeader方法论 | 虚线TL方法论 | [虚线TL方法](https://github.com/javaboy863/ark-management) |
 | 23 | 团队管理篇 | ark实线TeamLeader方法论 | 实线TL方法论 | [实线TL方法](https://github.com/javaboy863/ark-management) |
 | 24 | 研发流程规范篇 | ark技术评审规范 | 《技术方案评审规范》 | [技术方案评审规范](https://github.com/javaboy863/ark-standard/tree/main/nacos) |
