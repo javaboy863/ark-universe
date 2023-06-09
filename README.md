@@ -24,7 +24,7 @@
 | 9 | 中间件篇 | ark-jetcache框架 | 使用本地+远程两级缓存 | [ark-jetcache](https://github.com/javaboy863/ark-jetcache.git) |
 | 10 | 中间件篇 | ark-sentinel框架 | 限流降级 | [ark-sentinel](https://github.com/javaboy863/ark-sentinel.git) |
 | 8 | 架构篇 | ark分层框架1.0 | 是一种应用架构，是对整洁架构的一种实现 | [ark-layer-framework](https://github.com/javaboy863/ark-layer-framework) |
-| 8 | 架构篇 | ark分层框架2.0项目实践 | 基于分层框架1.0,在此基础上做了全新升级 | [ark-layer-framework 2.0](https://github.com/javaboy863/ark-sample-clean-code) |
+| 8 | 架构篇 | ark分层框架2.0项目实践 | 基于分层框架1.0,在此基础上做了全新升级 | [ark-layer-framework 2.0实践](https://github.com/javaboy863/ark-sample-clean-code) |
 | 9 | 架构篇 | ark系统稳定性方法论 | 架构稳定性方法论 | [稳定性](https://github.com/javaboy863/ark-arch/tree/main/arch-stability) |
 | 10 | 架构篇 | ark整洁架构方法论 | 整洁架构方法论 | [整洁架构](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-architecture) |
 | 11 | 架构篇 | ark整洁代码方法论 | 整洁代码方法论 | [整洁代码](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-code) |
@@ -38,8 +38,8 @@
 | 18 | 平台篇 |ark规则引擎平台 | 规则引擎平台 | [ark-rule-platform](https://github.com/javaboy863/ark-rule-platform) |
 | 19 | 平台篇 | ark分布式ID服务 | 分布式ID，生成全局唯一ID | [ark-leaf](https://github.com/javaboy863/ark-leaf) |
 | 20 | 中台篇 | ark交易中台 | 不同业态的交易场景 | [交易中台](https://github.com/javaboy863/ark-middle-end/tree/main/trading-middle-end) |
-| 20 | 中台篇 | ark营销中台 | 不同业态的营销场景 | [营销中台](https://github.com/javaboy863/ark-middle-end/tree/main/marketing-middle-end)) |
-| 20 | 中台篇 | ark商品中台 | 不同业态的商品场景 | [商品中台](https://github.com/javaboy863/ark-middle-end/tree/main/product-middle-end)) |
+| 20 | 中台篇 | ark营销中台 | 不同业态的营销场景 | [营销中台](https://github.com/javaboy863/ark-middle-end/tree/main/marketing-middle-end) |
+| 20 | 中台篇 | ark商品中台 | 不同业态的商品场景 | [商品中台](https://github.com/javaboy863/ark-middle-end/tree/main/product-middle-end) |
 | 21 | 最佳实践篇 | ark nacos最佳实践 | nacos使用最佳实践 | [nacos最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
 | 21 | 最佳实践篇 | ark cache最佳实践 | cache使用最佳实践 | [cache最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
 | 22 | 团队管理篇 | ark虚线TeamLeader方法论 | 虚线TL方法论 | [虚线TL方法](https://github.com/javaboy863/ark-management) |
