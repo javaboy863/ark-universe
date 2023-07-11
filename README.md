@@ -29,7 +29,7 @@
 | 10 | 架构篇 | ark整洁架构方法论 | 整洁架构方法论 | [整洁架构](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-architecture) |
 | 11 | 架构篇 | ark整洁代码方法论 | 整洁代码方法论 | [整洁代码](https://github.com/javaboy863/ark-arch/tree/main/arch-clean-code) |
 | 12 | 架构篇 | ark测试环境稳定性治理实践 | 测试环境稳定性治理实践 | [测试环境稳定性治理](https://github.com/javaboy863/ark-best-practices/tree/main/testing-environment) |
-| 12 | 架构篇 | ark DDD | DDD实践总结 | [DDD实践总结](https://github.com/javaboy863/ark-arch/tree/main/arch-DDD) |
+| 12 | 架构篇 | ark DDD | DDD实践总结 | [DDD实践总结](https://github.com/javaboy863/ark-DDD) |
 | 13 | 平台篇 |ark业务校验平台 | 各类业务规则校验,如1分钟未推单,订单状态异常等 | [ark-bcp](https://github.com/javaboy863/ark-bcp) |
 | 14 | 平台篇 |ark异常播报服务 | 生产环境异常报警通知 | [ark-monitor-bug-repoter](https://github.com/javaboy863/ark-monitor-bug-repoter) |
 | 15 | 平台篇 |ark dubbo摘挂流量服务 | 服务治理和摘挂流量 | [ark-dubbo-governance](https://github.com/javaboy863/ark-dubbo-governance) |
@@ -41,8 +41,13 @@
 | 20 | 中台篇 | ark营销中台 | 不同业态的营销场景 | [营销中台](https://github.com/javaboy863/ark-middle-end/tree/main/marketing-middle-end) |
 | 20 | 中台篇 | ark商品中台 | 不同业态的商品场景 | [商品中台](https://github.com/javaboy863/ark-middle-end/tree/main/product-middle-end) |
 | 21 | 最佳实践篇 | ark nacos最佳实践 | nacos使用最佳实践 | [nacos最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
-| 21 | 最佳实践篇 | ark cache最佳实践 | cache使用最佳实践 | [cache最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/nacos) |
-| 22 | 团队管理篇 | ark虚线TeamLeader方法论 | 虚线TL方法论 | [虚线TL方法](https://github.com/javaboy863/ark-management) |
-| 23 | 团队管理篇 | ark实线TeamLeader方法论 | 实线TL方法论 | [实线TL方法](https://github.com/javaboy863/ark-management) |
-| 24 | 研发流程规范篇 | ark技术评审规范 | 《技术方案评审规范》 | [技术方案评审规范](https://github.com/javaboy863/ark-standard/tree/main/nacos) |
-| 25 | 日常踩坑篇 | dubbo踩坑系列 | dubbo踩坑记录 | [dubbo踩坑系列](https://github.com/javaboy863/ark-standard/tree/main/nacos) |
+| 21 | 最佳实践篇 | ark分布式锁实践 | 分布式锁使用最佳实践 | [分布式锁最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/distributed-lock) |
+| 21 | 最佳实践篇 | ark 测试环境稳定性最佳实践 | 测试环境稳定性最佳实践 | [测试环境稳定性最佳实践](https://github.com/javaboy863/ark-best-practices/tree/main/testing-environment) |
+| 22 | 团队管理篇 | ark虚线TeamLeader方法论 | 虚线TL方法论 | [虚线TL方法](https://github.com/javaboy863/ark-management/tree/main/dotted-line-team-leader) |
+| 23 | 团队管理篇 | ark实线TeamLeader方法论 | 实线TL方法论 | [实线TL方法](https://github.com/javaboy863/ark-management/tree/main/solid-line-team-leader) |
+| 24 | 研发流程规范篇 | ark技术评审规范 | 《技术方案评审规范》 | [技术方案评审规范](https://github.com/javaboy863/ark-standard/tree/main/grooming-system-standard) |
+| 24 | 研发流程规范篇 | ark研发分支管理规范 | 《研发分支管理规范》 | [研发分支管理规范](https://github.com/javaboy863/ark-standard/tree/main/git-standrad) |
+| 24 | 研发流程规范篇 | ark业务系统限流降级 | 《业务系统限流降级》 | [业务系统限流降级](https://github.com/javaboy863/ark-standard/tree/main/rate-limit-standrad) |
+| 24 | 研发流程规范篇 | ark系统压测规范 | 《系统压测规范》 | [系统压测规范](https://github.com/javaboy863/ark-standard/tree/main/stress-test-standrad) |
+| 24 | 研发流程规范篇 | ark业务系统梳理规范及产出标准 | 《业务系统梳理规范及产出标准》 | [业务系统梳理规范及产出标准](https://github.com/javaboy863/ark-standard/tree/main/technical-solution-standard) |
+| 25 | 日常踩坑篇 | dubbo踩坑系列 | dubbo踩坑记录 | [dubbo踩坑系列](https://github.com/javaboy863/daily-problem/tree/main/dubbo) |
